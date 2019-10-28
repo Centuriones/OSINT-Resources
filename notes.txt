@@ -1,0 +1,108 @@
+
+Check this repo for more resources: https://github.com/DFW1N/DFW1N-OSINT
+
+Things I learnt at the Missing Persons CTF 2019
+
+- Try to find online usernames the suspect uses.
+- Make throwaway accounts for LinkedIn, Facebook, Twitter etc.
+- When finding a Phone number, import contacts on your phone, shows various accounts they owned accosiating with that mobile number such as Snapchat and Facebook
+- Looking at google maps and street view to look at points of intresets and where they could be
+- Using Youtube, Facebook and Snapchat videos to find a Licencse plate
+- Pivioting emails, for social media accounts
+- mbasic.facebook, gives you a static view of facebook, Easier to build a network of people of intreset such as family and friends
+- When looking for someone who went missing, Tehy to think what they will do to survive. Where they can go? Close places to get food, where they can potentially sleep? Use google maps to figure this out.
+- Read Micheal Bazzell, OSINT Technology
+- look at shopping centres
+- look at facebook check-ins
+- password reset options to confirm + get partial usernames/phone numbers/email addresses
+- passoword reset also reveals accounts
+- listen to tv interviews for names etc to pivot from
+- read comments
+- look into motivations
+- submit each family member etc as a flag
+- filter clearnet stuff through flashpoint for dark webs links of the same stuff
+- multiple pieces of intel, resubmit individually for the same link
+
+Websites
+
+Search engine
+https://metager.de/
+https://www.peoplesearch.com.au/
+
+Criminal
+https://www.criminal-court-records.com.au/
+http://www.sro.wa.gov.au/search/node/prison%20records
+http://www.austlii.edu.au/au/vic/
+https://www.coraweb.com.au/categories/criminal-and-court-records
+
+Multimedia
+http://exif.regex.info/exif.cgi
+spotify:user:[username]
+
+Social
+https://www.facebook.com/
+https://tiktokapi.ga/
+https://www.snapdex.com
+https://psnprofiles.com/
+https://www.xboxgamertag.com/
+https://www.linkedin.com/feed/
+https://www.pinterest.com.au/
+https://www.tumblr.com/
+https://www.last.fm/
+https://reddit.com/
+
+Email
+https://rocketreach.co/?tags=!()&page_size=10&start=1&mode=default
+
+Shops
+https://www.gumtree.com.au/
+https://www.ebay.com.au/
+https://www.facebook.com/marketplace/
+
+Money
+https://ausfund.com.au/search-for-super/search-unclaimed-super/
+https://www.moneysmart.gov.au/tools-and-resources/check-asic-lists
+https://online.austrac.gov.au/ao/public/rsregister.seam
+
+Heritage
+https://you.23andme.com/
+https://www.ancestry.com.au/
+
+Events
+https://www.eventbrite.com.au (account)
+
+Roads
+https://rego.act.gov.au/regosoawicket/public/reg/FindRegistrationPage?0
+https://www.service.transport.qld.gov.au/checkrego/application/VehicleSearch.xhtml?dswid=3074
+https://service.vic.gov.au/find-services/transport-and-driving/registration/check-registration/vehicle
+https://online.transport.wa.gov.au/webExternal/registration/;jsessionid=RxS1SMDgCCgKhiGsWRL7Cca_l99-9Q4hB4kPTUfIdr83Btl4ILYh!-697758044!-1477966438?0
+https://paytollnotice.mye-toll.com.au/tollnotice/
+https://my.service.nsw.gov.au/MyServiceNSW/index#/rms/freeRegoCheck/details
+
+Dark web
+https://fp.tools/home/search/all
+https://ahmia.fi/
+http://www.onion.link/
+
+Mobile Apps
+
+Beem It
+Whatsapp
+TikTok
+Discord
+SEARCH ENGINES DEEP WEBTorch                    http://xmh57jrzrnw6insl.onion
+Torch                    http://u7lqvkufrapz2ept.onion
+Grams                    http://grams7enufi7jmdl.onion
+Grams (caution)                http://s42qgnh4kesd5odo.onion
+Seeks Search                http://oq7hx5d4ip24ay2f.onion
+Not Evil                http://hss3uro2hsxfogfq.onion
+Ahmia         (also clearnet)    http://msydqstlz2kzerdg.onion/search
+DuckDuckGo                https://3g2upl4pq6kufc4m.onion
+El-Goog!                http://hbzfev4o4cgfkimg.onion                
+Searx                    http://lqdnpadpys4snom2.onion
+Searx                    http://searchb5a7tmimez.onion
+Searx                    http://ulrn6sryqaifefld.onion
+OSP Googolplex                http://googolplexc324wu.onion
+IIVW                    http://llvwfy2hc2fbawzb.onion
+BTDigg DHT Search Engine        http://btdigg63cdjmmmqj.onion
+Candle                    http://t7tvvkx5vc3cvj6l.onion
